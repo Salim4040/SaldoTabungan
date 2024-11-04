@@ -11,7 +11,7 @@ package si.pkg23176040.latihan19.saldotabungan;
  * KELAS    : Sistem Informasi
  * NIM      : 23176040
  * Deskripsi Program : Program ini berisi untuk menghitung dan menampilkan saldo tabungan 
- * setiap bulan selama 6 bulan dengan bunga 15% per bulan,dimulai dari saldo awal Rp 2.500.0
+ * setiap bulan selama 6 bulan dengan bunga 15% per bulan,dimulai dari saldo awal Rp 2.500.000
  */
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
